@@ -20,8 +20,8 @@
     "static/js/7.97a0dd08.chunk.js": "./static/js/7.97a0dd08.chunk.js",
     "static/js/7.97a0dd08.chunk.js.map": "./static/js/7.97a0dd08.chunk.js.map",
     "main.css": "./static/css/main.3d9f46dc.chunk.css",
-    "main.js": "./static/js/main.7d9f3c39.chunk.js",
-    "main.js.map": "./static/js/main.7d9f3c39.chunk.js.map",
+    "main.js": "./static/js/main.8e84161b.chunk.js",
+    "main.js.map": "./static/js/main.8e84161b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b8501654.js",
     "runtime-main.js.map": "./static/js/runtime-main.b8501654.js.map",
     "static/css/10.098d4aaa.chunk.css": "./static/css/10.098d4aaa.chunk.css",
@@ -92,7 +92,7 @@
     "static/js/40.a338cacb.chunk.js": "./static/js/40.a338cacb.chunk.js",
     "static/js/40.a338cacb.chunk.js.map": "./static/js/40.a338cacb.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b47c522127f44c0ee9b24b853d1ca77f.js": "./precache-manifest.b47c522127f44c0ee9b24b853d1ca77f.js",
+    "precache-manifest.df78744afa1dbbaa7cf7360c06cc3874.js": "./precache-manifest.df78744afa1dbbaa7cf7360c06cc3874.js",
     "service-worker.js": "./service-worker.js",
     "static/css/0.4c679a37.chunk.css.map": "./static/css/0.4c679a37.chunk.css.map",
     "static/css/10.098d4aaa.chunk.css.map": "./static/css/10.098d4aaa.chunk.css.map",
@@ -109,7 +109,7 @@
     "static/js/11.fe49093f.chunk.js.LICENSE.txt": "./static/js/11.fe49093f.chunk.js.LICENSE.txt",
     "static/js/12.b3f8b2dc.chunk.js.LICENSE.txt": "./static/js/12.b3f8b2dc.chunk.js.LICENSE.txt",
     "static/js/13.63d4e9fe.chunk.js.LICENSE.txt": "./static/js/13.63d4e9fe.chunk.js.LICENSE.txt",
-    "static/js/main.7d9f3c39.chunk.js.LICENSE.txt": "./static/js/main.7d9f3c39.chunk.js.LICENSE.txt",
+    "static/js/main.8e84161b.chunk.js.LICENSE.txt": "./static/js/main.8e84161b.chunk.js.LICENSE.txt",
     "static/media/4.png": "./static/media/4.d3f906ee.png",
     "static/media/404.svg": "./static/media/404.b285e399.svg",
     "static/media/all.min.css": "./static/media/fa-solid-900.d824df7e.woff2",
@@ -123,6 +123,6 @@
     "static/css/12.37842348.chunk.css",
     "static/js/12.b3f8b2dc.chunk.js",
     "static/css/main.3d9f46dc.chunk.css",
-    "static/js/main.7d9f3c39.chunk.js"
+    "static/js/main.8e84161b.chunk.js"
   ]
 }
