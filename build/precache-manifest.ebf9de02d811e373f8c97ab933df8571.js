@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70351d63eb717dc3104b2b95aa669934",
+    "revision": "33bf26472052746ac69a94666e6f30af",
     "url": "https://directrent.ai/index.html"
   },
   {
@@ -44,20 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://directrent.ai/static/js/0.7f00db58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b30d11d52aaf418ea645",
-    "url": "https://directrent.ai/static/js/1.f7beb545.chunk.js"
+    "revision": "71c2764ba3b58ef81400",
+    "url": "https://directrent.ai/static/js/1.4da282e3.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "https://directrent.ai/static/js/1.f7beb545.chunk.js.LICENSE.txt"
+    "url": "https://directrent.ai/static/js/1.4da282e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d76739e1239de442f3be",
-    "url": "https://directrent.ai/static/js/10.0d85b8f7.chunk.js"
+    "revision": "4a99362956138b65d188",
+    "url": "https://directrent.ai/static/js/10.3f43c62b.chunk.js"
   },
   {
     "revision": "17a02d9f369ef4255cbfd30f492a9d4d",
-    "url": "https://directrent.ai/static/js/10.0d85b8f7.chunk.js.LICENSE.txt"
+    "url": "https://directrent.ai/static/js/10.3f43c62b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "544d49c160c6d08e4e0f",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://directrent.ai/static/js/13.9b1de7a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ebf50d939f48a190fe4",
-    "url": "https://directrent.ai/static/js/14.e4c85f88.chunk.js"
+    "revision": "6543556b9da3f7b0035d",
+    "url": "https://directrent.ai/static/js/14.579fe496.chunk.js"
   },
   {
     "revision": "5c8f54e7b81a655daa12",
@@ -220,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://directrent.ai/static/js/main.e444a9f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94f76ee3872c05484f88",
-    "url": "https://directrent.ai/static/js/runtime-main.c199004d.js"
+    "revision": "b0b0dd63739476ed5344",
+    "url": "https://directrent.ai/static/js/runtime-main.7cd33038.js"
   },
   {
     "revision": "d3f906eea69147734e83eea1fea49464",

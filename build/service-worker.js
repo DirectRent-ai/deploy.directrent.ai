@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://directrent.ai/precache-manifest.c981ccaa1639310dc0e3ea1afe14db88.js"
+  "https://directrent.ai/precache-manifest.ebf9de02d811e373f8c97ab933df8571.js"
 );
 
 self.addEventListener('message', (event) => {
